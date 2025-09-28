@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there i'm jell 👋
 
 <!--
 **jelllllllllll/jelllllllllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a Financial Manager App
+-  I’m currently learning Cloud's Function
